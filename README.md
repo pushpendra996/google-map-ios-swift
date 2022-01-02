@@ -3,7 +3,7 @@ Google Map View Integration
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pushpendra996/google-map-ios-swift/main/screen.png" width="350" title="Floating TextField">
+  <img src="https://raw.githubusercontent.com/pushpendra996/google-map-ios-swift/main/screen.png" width="30%" title="Floating TextField">
 </p>
 
 Steps - 
